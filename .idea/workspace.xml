@@ -2,12 +2,25 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="71a5cd2c-7058-4732-bca3-787344323c93" name="Default" comment="签入">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/qfy-content/uploads/2017/05/01.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/qfy-content/uploads/2017/05/02.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/qfy-content/uploads/2017/05/03.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/qfy-content/uploads/2017/05/04.jpg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FeiEditor/bitSite/wp/bootstrap/fonts/fontawesome-v3.eot" afterPath="$PROJECT_DIR$/FeiEditor/bitSite/wp/bootstrap/fonts/fontawesome-v3.eot" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FeiEditor/bitSite/wp/bootstrap/fonts/fontawesome-v3.ttf" afterPath="$PROJECT_DIR$/FeiEditor/bitSite/wp/bootstrap/fonts/fontawesome-v3.ttf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FeiEditor/bitSite/wp/bootstrap/fonts/fontawesome-webfont.eot" afterPath="$PROJECT_DIR$/FeiEditor/bitSite/wp/bootstrap/fonts/fontawesome-webfont.eot" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FeiEditor/bitSite/wp/bootstrap/fonts/fontawesome-webfont.ttf" afterPath="$PROJECT_DIR$/FeiEditor/bitSite/wp/bootstrap/fonts/fontawesome-webfont.ttf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FeiEditor/bitSite/wp/bootstrap/fonts/glyphicons-halflings-regular.eot" afterPath="$PROJECT_DIR$/FeiEditor/bitSite/wp/bootstrap/fonts/glyphicons-halflings-regular.eot" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FeiEditor/bitSite/wp/bootstrap/fonts/glyphicons-halflings-regular.svg" afterPath="$PROJECT_DIR$/FeiEditor/bitSite/wp/bootstrap/fonts/glyphicons-halflings-regular.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FeiEditor/bitSite/wp/bootstrap/fonts/glyphicons-halflings-regular.ttf" afterPath="$PROJECT_DIR$/FeiEditor/bitSite/wp/bootstrap/fonts/glyphicons-halflings-regular.ttf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/about.html" afterPath="$PROJECT_DIR$/about.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/activity.html" afterPath="$PROJECT_DIR$/activity.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/contact.html" afterPath="$PROJECT_DIR$/contact.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/example.html" afterPath="$PROJECT_DIR$/example.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/qfy-content/plugins/revslider/rs-plugin/font/revicons.eot" afterPath="$PROJECT_DIR$/qfy-content/plugins/revslider/rs-plugin/font/revicons.eot" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/qfy-content/plugins/revslider/rs-plugin/font/revicons.svg" afterPath="$PROJECT_DIR$/qfy-content/plugins/revslider/rs-plugin/font/revicons.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/qfy-content/plugins/revslider/rs-plugin/font/revicons.ttf" afterPath="$PROJECT_DIR$/qfy-content/plugins/revslider/rs-plugin/font/revicons.ttf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/qfy-includes/fonts/dashicons.eot" afterPath="$PROJECT_DIR$/qfy-includes/fonts/dashicons.eot" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/qfy-includes/fonts/dashicons.svg" afterPath="$PROJECT_DIR$/qfy-includes/fonts/dashicons.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/qfy-includes/fonts/dashicons.ttf" afterPath="$PROJECT_DIR$/qfy-includes/fonts/dashicons.ttf" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -21,11 +34,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="387">
-              <caret line="366" column="80" lean-forward="false" selection-start-line="366" selection-start-column="80" selection-end-line="366" selection-end-column="80" />
+            <state relative-caret-position="167">
+              <caret line="725" column="117" lean-forward="false" selection-start-line="725" selection-start-column="117" selection-end-line="725" selection-end-column="117" />
               <folding>
                 <element signature="n#script#2;n#head#0;n#html#0;n#!!top" expanded="false" />
                 <element signature="n#style#0;n#a#0;n#div#0;n#div#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -35,36 +48,35 @@
                 <element signature="n#style#0;n#div#0;n#div#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#script#2;n#div#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <marker date="1515156003531" expanded="false" signature="22003:40445" ph="..." />
-                <marker date="1515156003531" expanded="false" signature="22204:22223" ph="..." />
-                <marker date="1515156003531" expanded="false" signature="25233:25281" ph="..." />
-                <marker date="1515156003531" expanded="false" signature="26589:26615" ph="..." />
-                <marker date="1515156003531" expanded="false" signature="27216:27236" ph="..." />
-                <marker date="1515156003531" expanded="false" signature="27408:27448" ph="..." />
-                <marker date="1515156003531" expanded="false" signature="27539:27567" ph="..." />
-                <marker date="1515156003531" expanded="false" signature="28061:28269" ph="..." />
-                <marker date="1515156003531" expanded="false" signature="28424:28439" ph="..." />
-                <marker date="1515156003531" expanded="false" signature="28518:28544" ph="..." />
-                <marker date="1515156003531" expanded="false" signature="28623:28643" ph="..." />
-                <marker date="1515156003531" expanded="false" signature="31388:31408" ph="..." />
-                <marker date="1515156003531" expanded="false" signature="31580:31620" ph="..." />
-                <marker date="1515156003531" expanded="false" signature="31711:31739" ph="..." />
-                <marker date="1515156003531" expanded="false" signature="32234:32442" ph="..." />
-                <marker date="1515156003531" expanded="false" signature="32597:32612" ph="..." />
-                <marker date="1515156003531" expanded="false" signature="32691:32717" ph="..." />
-                <marker date="1515156003531" expanded="false" signature="32796:32816" ph="..." />
-                <marker date="1515156003531" expanded="false" signature="35552:35572" ph="..." />
-                <marker date="1515156003531" expanded="false" signature="35744:35784" ph="..." />
-                <marker date="1515156003531" expanded="false" signature="35875:35903" ph="..." />
-                <marker date="1515156003531" expanded="false" signature="36397:36605" ph="..." />
-                <marker date="1515156003531" expanded="false" signature="36760:36775" ph="..." />
-                <marker date="1515156003531" expanded="false" signature="36854:36880" ph="..." />
-                <marker date="1515156003531" expanded="false" signature="36959:36979" ph="..." />
-                <marker date="1515156003531" expanded="false" signature="39316:39327" ph="..." />
-                <marker date="1515156003531" expanded="false" signature="40543:42190" ph="..." />
-                <marker date="1515156003531" expanded="false" signature="42222:42309" ph="..." />
-                <marker date="1515156003531" expanded="false" signature="42333:42446" ph="..." />
-                <marker date="1515156003531" expanded="false" signature="42494:42507" ph="..." />
+                <element signature="n#style#0;n#span#0;n#span#0;n#span#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#1;n#section#0;n#div#0;n#section#0;n#div#0;n#div#0;n#footer#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#span#0;n#span#0;n#span#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#1;n#div#0;n#div#1;n#section#0;n#div#0;n#section#0;n#div#0;n#div#0;n#footer#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#span#0;n#span#0;n#span#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#2;n#div#0;n#div#1;n#section#0;n#div#0;n#section#0;n#div#0;n#div#0;n#footer#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <marker date="1515156250080" expanded="false" signature="22204:22223" ph="..." />
+                <marker date="1515156250080" expanded="false" signature="25233:25281" ph="..." />
+                <marker date="1515156250080" expanded="false" signature="26589:26615" ph="..." />
+                <marker date="1515156250080" expanded="false" signature="27216:27236" ph="..." />
+                <marker date="1515156250080" expanded="false" signature="27408:27448" ph="..." />
+                <marker date="1515156250080" expanded="false" signature="27539:27567" ph="..." />
+                <marker date="1515156250080" expanded="false" signature="28061:28269" ph="..." />
+                <marker date="1515156250080" expanded="false" signature="28424:28439" ph="..." />
+                <marker date="1515156250080" expanded="false" signature="28518:28544" ph="..." />
+                <marker date="1515156250080" expanded="false" signature="31387:31407" ph="..." />
+                <marker date="1515156250080" expanded="false" signature="31579:31619" ph="..." />
+                <marker date="1515156250080" expanded="false" signature="31710:31738" ph="..." />
+                <marker date="1515156250080" expanded="false" signature="32233:32441" ph="..." />
+                <marker date="1515156250080" expanded="false" signature="32596:32611" ph="..." />
+                <marker date="1515156250080" expanded="false" signature="32690:32716" ph="..." />
+                <marker date="1515156250080" expanded="false" signature="35567:35587" ph="..." />
+                <marker date="1515156250080" expanded="false" signature="35759:35799" ph="..." />
+                <marker date="1515156250080" expanded="false" signature="35890:35918" ph="..." />
+                <marker date="1515156250080" expanded="false" signature="36412:36620" ph="..." />
+                <marker date="1515156250080" expanded="false" signature="36775:36790" ph="..." />
+                <marker date="1515156250080" expanded="false" signature="36869:36895" ph="..." />
+                <marker date="1515156250080" expanded="false" signature="39341:39352" ph="..." />
+                <marker date="1515156250080" expanded="false" signature="40568:42215" ph="..." />
+                <marker date="1515156250080" expanded="false" signature="42247:42334" ph="..." />
+                <marker date="1515156250080" expanded="false" signature="42358:42471" ph="..." />
+                <marker date="1515156250080" expanded="false" signature="42519:42532" ph="..." />
               </folding>
             </state>
           </provider>
@@ -73,8 +85,18 @@
       <file leaf-file-name="fontawesome-v3.eot" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/FeiEditor/bitSite/wp/bootstrap/fonts/fontawesome-v3.eot">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="142">
-              <caret line="32" column="18" lean-forward="false" selection-start-line="32" selection-start-column="18" selection-end-line="32" selection-end-column="18" />
+            <state relative-caret-position="73">
+              <caret line="1307" column="123" lean-forward="false" selection-start-line="1307" selection-start-column="123" selection-end-line="1307" selection-end-column="123" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="fontawesome-v3.ttf" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/FeiEditor/bitSite/wp/bootstrap/fonts/fontawesome-v3.ttf">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="121">
+              <caret line="1307" column="123" lean-forward="false" selection-start-line="1307" selection-start-column="123" selection-end-line="1307" selection-end-column="123" />
               <folding />
             </state>
           </provider>
@@ -267,24 +289,14 @@
       <file leaf-file-name="workspace.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3423">
-              <caret line="497" column="12" lean-forward="false" selection-start-line="497" selection-start-column="12" selection-end-line="497" selection-end-column="12" />
+            <state relative-caret-position="3699">
+              <caret line="509" column="12" lean-forward="false" selection-start-line="509" selection-start-column="12" selection-end-line="509" selection-end-column="12" />
               <folding>
-                <marker date="1515156005065" expanded="true" signature="191683:191700" ph="..." />
-                <marker date="1515156005065" expanded="true" signature="191683:191718" ph="..." />
-                <marker date="1515156005065" expanded="true" signature="191683:191731" ph="..." />
-                <marker date="1515156005065" expanded="true" signature="191683:191746" ph="..." />
+                <marker date="1515156356402" expanded="true" signature="196064:196081" ph="..." />
+                <marker date="1515156356402" expanded="true" signature="196064:196099" ph="..." />
+                <marker date="1515156356402" expanded="true" signature="196064:196112" ph="..." />
+                <marker date="1515156356402" expanded="true" signature="196064:196127" ph="..." />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="glyphicons-halflings-regular.eot" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/FeiEditor/bitSite/wp/bootstrap/fonts/glyphicons-halflings-regular.eot">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="121">
-              <caret line="1145" column="58" lean-forward="false" selection-start-line="1145" selection-start-column="58" selection-end-line="1145" selection-end-column="58" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -500,6 +512,10 @@
       <find>关于</find>
       <find>e8b9a60e1a1abd19aed174b10a6c04c5.jpg</find>
       <find>e9d12a0bab4b367ed65c3ce5697c1ffa.jpg</find>
+      <find>江苏省苏州市工业园区金鸡湖大道00号</find>
+      <find>Powered by QFY 版权所有 ©2010-2016</find>
+      <find>苏ICP备00010001号</find>
+      <find>地址：江苏省苏州市工业园区金鸡湖大道00号</find>
     </findStrings>
     <replaceStrings>
       <replace>Home</replace>
@@ -507,6 +523,8 @@
       <replace>Contact</replace>
       <replace>About</replace>
       <replace>duo-art</replace>
+      <replace>Powered by duo-art ©2017-2018</replace>
+      <replace>Adrees:No. 42, Huating Road, Shanghai</replace>
     </replaceStrings>
     <dirStrings>
       <dir>C:\project\duo-art</dir>
@@ -526,14 +544,14 @@
         <option value="$PROJECT_DIR$/about.html" />
         <option value="$PROJECT_DIR$/example.html" />
         <option value="$PROJECT_DIR$/contact.html" />
-        <option value="$PROJECT_DIR$/FeiEditor/bitSite/wp/bootstrap/fonts/fontawesome-v3.ttf" />
         <option value="$PROJECT_DIR$/FeiEditor/bitSite/wp/bootstrap/fonts/fontawesome-webfont.eot" />
         <option value="$PROJECT_DIR$/FeiEditor/bitSite/wp/bootstrap/fonts/fontawesome-webfont.ttf" />
         <option value="$PROJECT_DIR$/FeiEditor/bitSite/wp/bootstrap/fonts/glyphicons-halflings-regular.eot" />
         <option value="$PROJECT_DIR$/FeiEditor/bitSite/wp/bootstrap/fonts/glyphicons-halflings-regular.svg" />
         <option value="$PROJECT_DIR$/.idea/workspace.xml" />
-        <option value="$PROJECT_DIR$/FeiEditor/bitSite/wp/bootstrap/fonts/fontawesome-v3.eot" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/FeiEditor/bitSite/wp/bootstrap/fonts/fontawesome-v3.eot" />
+        <option value="$PROJECT_DIR$/FeiEditor/bitSite/wp/bootstrap/fonts/fontawesome-v3.ttf" />
       </list>
     </option>
   </component>
@@ -736,13 +754,12 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6401000" />
+    <option name="totallyTimeSpent" value="6761000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32886904" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1235119" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5620112" sideWeight="0.5021075" order="7" side_tool="true" content_ui="tabs" />
@@ -750,7 +767,7 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31389365" sideWeight="0.49789253" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23842196" sideWeight="0.49789253" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -814,36 +831,35 @@
             <element signature="n#style#0;n#div#0;n#div#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#script#2;n#div#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <marker date="1515156003531" expanded="false" signature="22003:40445" ph="..." />
-            <marker date="1515156003531" expanded="false" signature="22204:22223" ph="..." />
-            <marker date="1515156003531" expanded="false" signature="25233:25281" ph="..." />
-            <marker date="1515156003531" expanded="false" signature="26589:26615" ph="..." />
-            <marker date="1515156003531" expanded="false" signature="27216:27236" ph="..." />
-            <marker date="1515156003531" expanded="false" signature="27408:27448" ph="..." />
-            <marker date="1515156003531" expanded="false" signature="27539:27567" ph="..." />
-            <marker date="1515156003531" expanded="false" signature="28061:28269" ph="..." />
-            <marker date="1515156003531" expanded="false" signature="28424:28439" ph="..." />
-            <marker date="1515156003531" expanded="false" signature="28518:28544" ph="..." />
-            <marker date="1515156003531" expanded="false" signature="28623:28643" ph="..." />
-            <marker date="1515156003531" expanded="false" signature="31388:31408" ph="..." />
-            <marker date="1515156003531" expanded="false" signature="31580:31620" ph="..." />
-            <marker date="1515156003531" expanded="false" signature="31711:31739" ph="..." />
-            <marker date="1515156003531" expanded="false" signature="32234:32442" ph="..." />
-            <marker date="1515156003531" expanded="false" signature="32597:32612" ph="..." />
-            <marker date="1515156003531" expanded="false" signature="32691:32717" ph="..." />
-            <marker date="1515156003531" expanded="false" signature="32796:32816" ph="..." />
-            <marker date="1515156003531" expanded="false" signature="35552:35572" ph="..." />
-            <marker date="1515156003531" expanded="false" signature="35744:35784" ph="..." />
-            <marker date="1515156003531" expanded="false" signature="35875:35903" ph="..." />
-            <marker date="1515156003531" expanded="false" signature="36397:36605" ph="..." />
-            <marker date="1515156003531" expanded="false" signature="36760:36775" ph="..." />
-            <marker date="1515156003531" expanded="false" signature="36854:36880" ph="..." />
-            <marker date="1515156003531" expanded="false" signature="36959:36979" ph="..." />
-            <marker date="1515156003531" expanded="false" signature="39316:39327" ph="..." />
-            <marker date="1515156003531" expanded="false" signature="40543:42190" ph="..." />
-            <marker date="1515156003531" expanded="false" signature="42222:42309" ph="..." />
-            <marker date="1515156003531" expanded="false" signature="42333:42446" ph="..." />
-            <marker date="1515156003531" expanded="false" signature="42494:42507" ph="..." />
+            <element signature="n#style#0;n#span#0;n#span#0;n#span#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#1;n#section#0;n#div#0;n#section#0;n#div#0;n#div#0;n#footer#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#span#0;n#span#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#1;n#div#0;n#div#1;n#section#0;n#div#0;n#section#0;n#div#0;n#div#0;n#footer#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#span#0;n#span#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#2;n#div#0;n#div#1;n#section#0;n#div#0;n#section#0;n#div#0;n#div#0;n#footer#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <marker date="1515156250080" expanded="false" signature="22204:22223" ph="..." />
+            <marker date="1515156250080" expanded="false" signature="25233:25281" ph="..." />
+            <marker date="1515156250080" expanded="false" signature="26589:26615" ph="..." />
+            <marker date="1515156250080" expanded="false" signature="27216:27236" ph="..." />
+            <marker date="1515156250080" expanded="false" signature="27408:27448" ph="..." />
+            <marker date="1515156250080" expanded="false" signature="27539:27567" ph="..." />
+            <marker date="1515156250080" expanded="false" signature="28061:28269" ph="..." />
+            <marker date="1515156250080" expanded="false" signature="28424:28439" ph="..." />
+            <marker date="1515156250080" expanded="false" signature="28518:28544" ph="..." />
+            <marker date="1515156250080" expanded="false" signature="31387:31407" ph="..." />
+            <marker date="1515156250080" expanded="false" signature="31579:31619" ph="..." />
+            <marker date="1515156250080" expanded="false" signature="31710:31738" ph="..." />
+            <marker date="1515156250080" expanded="false" signature="32233:32441" ph="..." />
+            <marker date="1515156250080" expanded="false" signature="32596:32611" ph="..." />
+            <marker date="1515156250080" expanded="false" signature="32690:32716" ph="..." />
+            <marker date="1515156250080" expanded="false" signature="35567:35587" ph="..." />
+            <marker date="1515156250080" expanded="false" signature="35759:35799" ph="..." />
+            <marker date="1515156250080" expanded="false" signature="35890:35918" ph="..." />
+            <marker date="1515156250080" expanded="false" signature="36412:36620" ph="..." />
+            <marker date="1515156250080" expanded="false" signature="36775:36790" ph="..." />
+            <marker date="1515156250080" expanded="false" signature="36869:36895" ph="..." />
+            <marker date="1515156250080" expanded="false" signature="39341:39352" ph="..." />
+            <marker date="1515156250080" expanded="false" signature="40568:42215" ph="..." />
+            <marker date="1515156250080" expanded="false" signature="42247:42334" ph="..." />
+            <marker date="1515156250080" expanded="false" signature="42358:42471" ph="..." />
+            <marker date="1515156250080" expanded="false" signature="42519:42532" ph="..." />
           </folding>
         </state>
       </provider>
@@ -861,36 +877,35 @@
             <element signature="n#style#0;n#div#0;n#div#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#script#2;n#div#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <marker date="1515156003531" expanded="false" signature="22003:40445" ph="..." />
-            <marker date="1515156003531" expanded="false" signature="22204:22223" ph="..." />
-            <marker date="1515156003531" expanded="false" signature="25233:25281" ph="..." />
-            <marker date="1515156003531" expanded="false" signature="26589:26615" ph="..." />
-            <marker date="1515156003531" expanded="false" signature="27216:27236" ph="..." />
-            <marker date="1515156003531" expanded="false" signature="27408:27448" ph="..." />
-            <marker date="1515156003531" expanded="false" signature="27539:27567" ph="..." />
-            <marker date="1515156003531" expanded="false" signature="28061:28269" ph="..." />
-            <marker date="1515156003531" expanded="false" signature="28424:28439" ph="..." />
-            <marker date="1515156003531" expanded="false" signature="28518:28544" ph="..." />
-            <marker date="1515156003531" expanded="false" signature="28623:28643" ph="..." />
-            <marker date="1515156003531" expanded="false" signature="31388:31408" ph="..." />
-            <marker date="1515156003531" expanded="false" signature="31580:31620" ph="..." />
-            <marker date="1515156003531" expanded="false" signature="31711:31739" ph="..." />
-            <marker date="1515156003531" expanded="false" signature="32234:32442" ph="..." />
-            <marker date="1515156003531" expanded="false" signature="32597:32612" ph="..." />
-            <marker date="1515156003531" expanded="false" signature="32691:32717" ph="..." />
-            <marker date="1515156003531" expanded="false" signature="32796:32816" ph="..." />
-            <marker date="1515156003531" expanded="false" signature="35552:35572" ph="..." />
-            <marker date="1515156003531" expanded="false" signature="35744:35784" ph="..." />
-            <marker date="1515156003531" expanded="false" signature="35875:35903" ph="..." />
-            <marker date="1515156003531" expanded="false" signature="36397:36605" ph="..." />
-            <marker date="1515156003531" expanded="false" signature="36760:36775" ph="..." />
-            <marker date="1515156003531" expanded="false" signature="36854:36880" ph="..." />
-            <marker date="1515156003531" expanded="false" signature="36959:36979" ph="..." />
-            <marker date="1515156003531" expanded="false" signature="39316:39327" ph="..." />
-            <marker date="1515156003531" expanded="false" signature="40543:42190" ph="..." />
-            <marker date="1515156003531" expanded="false" signature="42222:42309" ph="..." />
-            <marker date="1515156003531" expanded="false" signature="42333:42446" ph="..." />
-            <marker date="1515156003531" expanded="false" signature="42494:42507" ph="..." />
+            <element signature="n#style#0;n#span#0;n#span#0;n#span#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#1;n#section#0;n#div#0;n#section#0;n#div#0;n#div#0;n#footer#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#span#0;n#span#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#1;n#div#0;n#div#1;n#section#0;n#div#0;n#section#0;n#div#0;n#div#0;n#footer#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#span#0;n#span#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#2;n#div#0;n#div#1;n#section#0;n#div#0;n#section#0;n#div#0;n#div#0;n#footer#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <marker date="1515156250080" expanded="false" signature="22204:22223" ph="..." />
+            <marker date="1515156250080" expanded="false" signature="25233:25281" ph="..." />
+            <marker date="1515156250080" expanded="false" signature="26589:26615" ph="..." />
+            <marker date="1515156250080" expanded="false" signature="27216:27236" ph="..." />
+            <marker date="1515156250080" expanded="false" signature="27408:27448" ph="..." />
+            <marker date="1515156250080" expanded="false" signature="27539:27567" ph="..." />
+            <marker date="1515156250080" expanded="false" signature="28061:28269" ph="..." />
+            <marker date="1515156250080" expanded="false" signature="28424:28439" ph="..." />
+            <marker date="1515156250080" expanded="false" signature="28518:28544" ph="..." />
+            <marker date="1515156250080" expanded="false" signature="31387:31407" ph="..." />
+            <marker date="1515156250080" expanded="false" signature="31579:31619" ph="..." />
+            <marker date="1515156250080" expanded="false" signature="31710:31738" ph="..." />
+            <marker date="1515156250080" expanded="false" signature="32233:32441" ph="..." />
+            <marker date="1515156250080" expanded="false" signature="32596:32611" ph="..." />
+            <marker date="1515156250080" expanded="false" signature="32690:32716" ph="..." />
+            <marker date="1515156250080" expanded="false" signature="35567:35587" ph="..." />
+            <marker date="1515156250080" expanded="false" signature="35759:35799" ph="..." />
+            <marker date="1515156250080" expanded="false" signature="35890:35918" ph="..." />
+            <marker date="1515156250080" expanded="false" signature="36412:36620" ph="..." />
+            <marker date="1515156250080" expanded="false" signature="36775:36790" ph="..." />
+            <marker date="1515156250080" expanded="false" signature="36869:36895" ph="..." />
+            <marker date="1515156250080" expanded="false" signature="39341:39352" ph="..." />
+            <marker date="1515156250080" expanded="false" signature="40568:42215" ph="..." />
+            <marker date="1515156250080" expanded="false" signature="42247:42334" ph="..." />
+            <marker date="1515156250080" expanded="false" signature="42358:42471" ph="..." />
+            <marker date="1515156250080" expanded="false" signature="42519:42532" ph="..." />
           </folding>
         </state>
       </provider>
@@ -1082,14 +1097,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
           <caret line="119" column="27" lean-forward="false" selection-start-line="119" selection-start-column="27" selection-end-line="119" selection-end-column="27" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/FeiEditor/bitSite/wp/bootstrap/fonts/fontawesome-v3.ttf">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="121">
-          <caret line="112" column="52" lean-forward="false" selection-start-line="112" selection-start-column="52" selection-end-line="112" selection-end-column="52" />
           <folding />
         </state>
       </provider>
@@ -1313,22 +1320,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3423">
-          <caret line="497" column="12" lean-forward="false" selection-start-line="497" selection-start-column="12" selection-end-line="497" selection-end-column="12" />
+        <state relative-caret-position="3699">
+          <caret line="509" column="12" lean-forward="false" selection-start-line="509" selection-start-column="12" selection-end-line="509" selection-end-column="12" />
           <folding>
-            <marker date="1515156005065" expanded="true" signature="191683:191700" ph="..." />
-            <marker date="1515156005065" expanded="true" signature="191683:191718" ph="..." />
-            <marker date="1515156005065" expanded="true" signature="191683:191731" ph="..." />
-            <marker date="1515156005065" expanded="true" signature="191683:191746" ph="..." />
+            <marker date="1515156356402" expanded="true" signature="196064:196081" ph="..." />
+            <marker date="1515156356402" expanded="true" signature="196064:196099" ph="..." />
+            <marker date="1515156356402" expanded="true" signature="196064:196112" ph="..." />
+            <marker date="1515156356402" expanded="true" signature="196064:196127" ph="..." />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/FeiEditor/bitSite/wp/bootstrap/fonts/fontawesome-v3.eot">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="142">
-          <caret line="32" column="18" lean-forward="false" selection-start-line="32" selection-start-column="18" selection-end-line="32" selection-end-column="18" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1512,8 +1511,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="387">
-          <caret line="366" column="80" lean-forward="false" selection-start-line="366" selection-start-column="80" selection-end-line="366" selection-end-column="80" />
+        <state relative-caret-position="167">
+          <caret line="725" column="117" lean-forward="false" selection-start-line="725" selection-start-column="117" selection-end-line="725" selection-end-column="117" />
           <folding>
             <element signature="n#script#2;n#head#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#style#0;n#a#0;n#div#0;n#div#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -1523,37 +1522,52 @@
             <element signature="n#style#0;n#div#0;n#div#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#script#2;n#div#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <marker date="1515156003531" expanded="false" signature="22003:40445" ph="..." />
-            <marker date="1515156003531" expanded="false" signature="22204:22223" ph="..." />
-            <marker date="1515156003531" expanded="false" signature="25233:25281" ph="..." />
-            <marker date="1515156003531" expanded="false" signature="26589:26615" ph="..." />
-            <marker date="1515156003531" expanded="false" signature="27216:27236" ph="..." />
-            <marker date="1515156003531" expanded="false" signature="27408:27448" ph="..." />
-            <marker date="1515156003531" expanded="false" signature="27539:27567" ph="..." />
-            <marker date="1515156003531" expanded="false" signature="28061:28269" ph="..." />
-            <marker date="1515156003531" expanded="false" signature="28424:28439" ph="..." />
-            <marker date="1515156003531" expanded="false" signature="28518:28544" ph="..." />
-            <marker date="1515156003531" expanded="false" signature="28623:28643" ph="..." />
-            <marker date="1515156003531" expanded="false" signature="31388:31408" ph="..." />
-            <marker date="1515156003531" expanded="false" signature="31580:31620" ph="..." />
-            <marker date="1515156003531" expanded="false" signature="31711:31739" ph="..." />
-            <marker date="1515156003531" expanded="false" signature="32234:32442" ph="..." />
-            <marker date="1515156003531" expanded="false" signature="32597:32612" ph="..." />
-            <marker date="1515156003531" expanded="false" signature="32691:32717" ph="..." />
-            <marker date="1515156003531" expanded="false" signature="32796:32816" ph="..." />
-            <marker date="1515156003531" expanded="false" signature="35552:35572" ph="..." />
-            <marker date="1515156003531" expanded="false" signature="35744:35784" ph="..." />
-            <marker date="1515156003531" expanded="false" signature="35875:35903" ph="..." />
-            <marker date="1515156003531" expanded="false" signature="36397:36605" ph="..." />
-            <marker date="1515156003531" expanded="false" signature="36760:36775" ph="..." />
-            <marker date="1515156003531" expanded="false" signature="36854:36880" ph="..." />
-            <marker date="1515156003531" expanded="false" signature="36959:36979" ph="..." />
-            <marker date="1515156003531" expanded="false" signature="39316:39327" ph="..." />
-            <marker date="1515156003531" expanded="false" signature="40543:42190" ph="..." />
-            <marker date="1515156003531" expanded="false" signature="42222:42309" ph="..." />
-            <marker date="1515156003531" expanded="false" signature="42333:42446" ph="..." />
-            <marker date="1515156003531" expanded="false" signature="42494:42507" ph="..." />
+            <element signature="n#style#0;n#span#0;n#span#0;n#span#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#1;n#section#0;n#div#0;n#section#0;n#div#0;n#div#0;n#footer#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#span#0;n#span#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#1;n#div#0;n#div#1;n#section#0;n#div#0;n#section#0;n#div#0;n#div#0;n#footer#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#span#0;n#span#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#2;n#div#0;n#div#1;n#section#0;n#div#0;n#section#0;n#div#0;n#div#0;n#footer#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <marker date="1515156250080" expanded="false" signature="22204:22223" ph="..." />
+            <marker date="1515156250080" expanded="false" signature="25233:25281" ph="..." />
+            <marker date="1515156250080" expanded="false" signature="26589:26615" ph="..." />
+            <marker date="1515156250080" expanded="false" signature="27216:27236" ph="..." />
+            <marker date="1515156250080" expanded="false" signature="27408:27448" ph="..." />
+            <marker date="1515156250080" expanded="false" signature="27539:27567" ph="..." />
+            <marker date="1515156250080" expanded="false" signature="28061:28269" ph="..." />
+            <marker date="1515156250080" expanded="false" signature="28424:28439" ph="..." />
+            <marker date="1515156250080" expanded="false" signature="28518:28544" ph="..." />
+            <marker date="1515156250080" expanded="false" signature="31387:31407" ph="..." />
+            <marker date="1515156250080" expanded="false" signature="31579:31619" ph="..." />
+            <marker date="1515156250080" expanded="false" signature="31710:31738" ph="..." />
+            <marker date="1515156250080" expanded="false" signature="32233:32441" ph="..." />
+            <marker date="1515156250080" expanded="false" signature="32596:32611" ph="..." />
+            <marker date="1515156250080" expanded="false" signature="32690:32716" ph="..." />
+            <marker date="1515156250080" expanded="false" signature="35567:35587" ph="..." />
+            <marker date="1515156250080" expanded="false" signature="35759:35799" ph="..." />
+            <marker date="1515156250080" expanded="false" signature="35890:35918" ph="..." />
+            <marker date="1515156250080" expanded="false" signature="36412:36620" ph="..." />
+            <marker date="1515156250080" expanded="false" signature="36775:36790" ph="..." />
+            <marker date="1515156250080" expanded="false" signature="36869:36895" ph="..." />
+            <marker date="1515156250080" expanded="false" signature="39341:39352" ph="..." />
+            <marker date="1515156250080" expanded="false" signature="40568:42215" ph="..." />
+            <marker date="1515156250080" expanded="false" signature="42247:42334" ph="..." />
+            <marker date="1515156250080" expanded="false" signature="42358:42471" ph="..." />
+            <marker date="1515156250080" expanded="false" signature="42519:42532" ph="..." />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FeiEditor/bitSite/wp/bootstrap/fonts/fontawesome-v3.eot">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="73">
+          <caret line="1307" column="123" lean-forward="false" selection-start-line="1307" selection-start-column="123" selection-end-line="1307" selection-end-column="123" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FeiEditor/bitSite/wp/bootstrap/fonts/fontawesome-v3.ttf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="121">
+          <caret line="1307" column="123" lean-forward="false" selection-start-line="1307" selection-start-column="123" selection-end-line="1307" selection-end-column="123" />
+          <folding />
         </state>
       </provider>
     </entry>
