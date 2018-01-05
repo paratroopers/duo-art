@@ -18,7 +18,7 @@ http://57216c01e680e.t74.qifeiye.com/FeiEditor/bitSite/js/html5shiv.min.js
 http://57216c01e680e.t74.qifeiye.com/FeiEditor/bitSite/js/respond.min.js
 http://57216c01e680e.t74.qifeiye.com/qfy-content/cache/scripts/32c63b42073fcfa2f4e40cfa120991c0.css
 http://57216c01e680e.t74.qifeiye.com/qfy-content/cache/scripts/928233f5195c3f7fe079f8577399f0e8.css
-http://57216c01e680e.t74.qifeiye.com/qfy-content/cache/scripts/b0cfd48157885ead366d03f3a4b4db11.js
+http://57216c01e680e.t74.qifeiye.com/qfy-content/cache/scripts/index.js
 http://57216c01e680e.t74.qifeiye.com/qfy-content/cache/scripts/be598dd1a4f7526064e37007031003fe.js
 http://57216c01e680e.t74.qifeiye.com/qfy-content/plugins/revslider/rs-plugin/js/jquery.themepunch.plugins.min.js?rev=4.1.4
 http://57216c01e680e.t74.qifeiye.com/qfy-content/plugins/revslider/rs-plugin/js/jquery.themepunch.revolution.min.js?rev=4.1.4
