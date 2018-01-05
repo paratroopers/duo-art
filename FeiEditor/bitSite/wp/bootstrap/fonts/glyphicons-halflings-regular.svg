@@ -67,7 +67,7 @@ var dtLocal = {"passText":"\u67e5\u770b\u8fd9\u4e2a\u52a0\u5bc6\u8d44\u8baf\uff0
 		<style type="text/css" >
 </style>
 		<script type="text/javascript">
-			dtGlobals.logoEnabled = 1;dtGlobals.curr_id = 2160;dtGlobals.logoURL = 'http://static.qifeiye.com/caches/0a6b85857c1b58df63a0d5f42029d09a/aHR0cDovLzU3MjE2YzAxZTY4MGUudDc0LnFpZmVpeWUuY29tL3FmeS1jb250ZW50L3VwbG9hZHMvMjAxNi8wNS8wOTU5ZjA3NTI1NzBlNzdhYmE1NjY5NWY1NDk0OTllMy5wbmc_p_p100_p_3D.png';dtGlobals.logoW = '178';dtGlobals.logoH = '79';dtGlobals.qfyname = '起飞页';dtGlobals.id = '57216c01e680e';dtGlobals.language = '';smartMenu = 1;document.cookie='resolution='+Math.max(screen.width,screen.height)+'; path=/';
+			dtGlobals.logoEnabled = 1;dtGlobals.curr_id = 2160;dtGlobals.logoURL = './qfy-content/uploads/2017/05/logo.png';dtGlobals.logoW = '178';dtGlobals.logoH = '79';dtGlobals.qfyname = '起飞页';dtGlobals.id = '57216c01e680e';dtGlobals.language = '';smartMenu = 1;document.cookie='resolution='+Math.max(screen.width,screen.height)+'; path=/';
 			dtGlobals.gallery_bgcolor = 'rgba(51,51,51,1)';dtGlobals.gallery_showthumbs = '0';dtGlobals.gallery_style = '';dtGlobals.gallery_autoplay = '0';dtGlobals.gallery_playspeed = '3';dtGlobals.gallery_imagesize = '100';dtGlobals.gallery_stopbutton = '';dtGlobals.gallery_thumbsposition = '';dtGlobals.gallery_tcolor = '#fff';dtGlobals.gallery_tsize = '16';dtGlobals.gallery_dcolor = '#fff';dtGlobals.gallery_dsize = '14';dtGlobals.gallery_tfamily = '';dtGlobals.gallery_dfamily = '';dtGlobals.gallery_blankclose = '0';dtGlobals.fm_showstyle = '';dtGlobals.fm_showspeed = '';dtGlobals.cdn_url = 'http://static.qifeiye.com';dtGlobals.qfymodel = "";
 			            			var socail_back_url = '';
 					
@@ -93,7 +93,7 @@ var dtLocal = {"passText":"\u67e5\u770b\u8fd9\u4e2a\u52a0\u5bc6\u8d44\u8baf\uff0
 		
 
 <div id="branding" class="wf-td bit-logo-bar" style="" >
-	<a  class="bitem logo nomarl" style="display: table-cell;" href="http://57216c01e680e.t74.qifeiye.com/"><span class="logospan"><img class="preload-me" src="http://static.qifeiye.com/caches/0a6b85857c1b58df63a0d5f42029d09a/aHR0cDovLzU3MjE2YzAxZTY4MGUudDc0LnFpZmVpeWUuY29tL3FmeS1jb250ZW50L3VwbG9hZHMvMjAxNi8wNS8wOTU5ZjA3NTI1NzBlNzdhYmE1NjY5NWY1NDk0OTllMy5wbmc_p_p100_p_3D.png" width="178" height="79"   alt="duo-art"  /></span></a>
+	<a  class="bitem logo nomarl" style="display: table-cell;" href="http://57216c01e680e.t74.qifeiye.com/"><span class="logospan"><img class="preload-me" src="./qfy-content/uploads/2017/05/logo.png" width="178" height="79"   alt="duo-art"  /></span></a>
 	
 	<!-- <div id="site-title" class="assistive-text"></div>
 	<div id="site-description" class="assistive-text"></div> -->
