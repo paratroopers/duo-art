@@ -1093,7 +1093,7 @@ function bit_newgallery(obj){
 	}
 	 if(obj.length==0) return;
 	 if(typeof jQuery.fn.royalSlider=="undefined"){
-		 jQuery.getScript("/FeiEditor/bitSite/js/jquery.royalslider.min.js").done(function() {
+		 jQuery.getScript("./FeiEditor/bitSite/js/jquery.royalslider.min.js").done(function() {
 			 _bit_newgallery(obj);
 		 })
 	 }else{
@@ -5111,7 +5111,7 @@ function column_init_align(){
 }
 function vc_royalSlider_gallery_init(){
 	 if(typeof jQuery.fn.royalSlider=="undefined"){
-		 jQuery.getScript("/FeiEditor/bitSite/js/jquery.royalslider.min.js").done(function() {
+		 jQuery.getScript("./FeiEditor/bitSite/js/jquery.royalslider.min.js").done(function() {
 			 _vc_royalSlider_gallery_init();
 		 })
 	 }else{
