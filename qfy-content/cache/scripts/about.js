@@ -9632,15 +9632,15 @@ jQuery(document).ready(function($) {
 	var current_page_key = jQuery('body').attr('data-pkey');
 	
 	if(current_page_id != '' && current_page_id != 'undefined' && current_page_key != '' && current_page_key != 'undefined'){
-	    jQuery.ajax({
-	        url: '/FeiEditor/traffic/log',
-	        type: 'post',
-	        async: true,
-	        data: {
-	        	st_pid: current_page_id,
-	        	st_pkey: current_page_key,
-	        }
-	    });
+	    // jQuery.ajax({
+	    //     url: '/FeiEditor/traffic/log',
+	    //     type: 'post',
+	    //     async: true,
+	    //     data: {
+	    //     	st_pid: current_page_id,
+	    //     	st_pkey: current_page_key,
+	    //     }
+	    // });
 	}
 	setTimeout(function(){
 		try{

@@ -1093,7 +1093,7 @@ function bit_newgallery(obj){
 	}
 	 if(obj.length==0) return;
 	 if(typeof jQuery.fn.royalSlider=="undefined"){
-		 jQuery.getScript("/FeiEditor/bitSite/js/jquery.royalslider.min.js").done(function() {
+		 jQuery.getScript("./FeiEditor/bitSite/js/jquery.royalslider.min.js").done(function() {
 			 _bit_newgallery(obj);
 		 })
 	 }else{
@@ -4775,7 +4775,7 @@ function initmouseover(){
 				}
 			  })
 			 
-			  top.jQuery("body").append('<div class="qfy_gallerys" style="position:fixed;top:0;left:0;width:100%;height:0;z-index:20000;"><iframe src="./FeiEditor/bitSite/gallerys?bgcolor='+encodeURIComponent(dtGlobals.gallery_bgcolor)+'&tfamily='+encodeURIComponent(dtGlobals.gallery_tfamily)+'&dfamily='+encodeURIComponent(dtGlobals.gallery_dfamily)+'&blankclose='+encodeURIComponent(dtGlobals.gallery_blankclose)+'&showthumbs='+dtGlobals.gallery_showthumbs+'&style='+dtGlobals.gallery_style+'&autoplay='+dtGlobals.gallery_autoplay+'&playspeed='+dtGlobals.gallery_playspeed+'&imagesize='+dtGlobals.gallery_imagesize+'&stopbutton='+dtGlobals.gallery_stopbutton+'&thumbsposition='+dtGlobals.gallery_thumbsposition+'&tsize='+dtGlobals.gallery_tsize+'&tcolor='+encodeURIComponent(dtGlobals.gallery_tcolor)+'&dsize='+dtGlobals.gallery_dsize+'&dcolor='+encodeURIComponent(dtGlobals.gallery_dcolor)+'&default_img='+default_img+'&thumbPath='+thumbPath+'&time='+Math.random()+'" width="100%" height="100%" border=0 style="border:0;" /></div>')
+			  top.jQuery("body").append('<div class="qfy_gallerys" style="position:fixed;top:0;left:0;width:100%;height:0;z-index:20000;"><iframe src="./FeiEditor/bitSite/gallerys/index.html?bgcolor='+encodeURIComponent(dtGlobals.gallery_bgcolor)+'&tfamily='+encodeURIComponent(dtGlobals.gallery_tfamily)+'&dfamily='+encodeURIComponent(dtGlobals.gallery_dfamily)+'&blankclose='+encodeURIComponent(dtGlobals.gallery_blankclose)+'&showthumbs='+dtGlobals.gallery_showthumbs+'&style='+dtGlobals.gallery_style+'&autoplay='+dtGlobals.gallery_autoplay+'&playspeed='+dtGlobals.gallery_playspeed+'&imagesize='+dtGlobals.gallery_imagesize+'&stopbutton='+dtGlobals.gallery_stopbutton+'&thumbsposition='+dtGlobals.gallery_thumbsposition+'&tsize='+dtGlobals.gallery_tsize+'&tcolor='+encodeURIComponent(dtGlobals.gallery_tcolor)+'&dsize='+dtGlobals.gallery_dsize+'&dcolor='+encodeURIComponent(dtGlobals.gallery_dcolor)+'&default_img='+default_img+'&thumbPath='+thumbPath+'&time='+Math.random()+'" width="100%" height="100%" border=0 style="border:0;" /></div>')
 			  top.jQuery(".qfy_gallerys").animate({height:"100%"});
 			  return false;
 		  }
@@ -5111,7 +5111,7 @@ function column_init_align(){
 }
 function vc_royalSlider_gallery_init(){
 	 if(typeof jQuery.fn.royalSlider=="undefined"){
-		 jQuery.getScript("/FeiEditor/bitSite/js/jquery.royalslider.min.js").done(function() {
+		 jQuery.getScript("./FeiEditor/bitSite/js/jquery.royalslider.min.js").done(function() {
 			 _vc_royalSlider_gallery_init();
 		 })
 	 }else{
@@ -9632,15 +9632,15 @@ jQuery(document).ready(function($) {
 	var current_page_key = jQuery('body').attr('data-pkey');
 	
 	if(current_page_id != '' && current_page_id != 'undefined' && current_page_key != '' && current_page_key != 'undefined'){
-	    jQuery.ajax({
-	        url: '/FeiEditor/traffic/log',
-	        type: 'post',
-	        async: true,
-	        data: {
-	        	st_pid: current_page_id,
-	        	st_pkey: current_page_key,
-	        }
-	    });
+	    // jQuery.ajax({
+	    //     url: './FeiEditor/traffic/log',
+	    //     type: 'post',
+	    //     async: true,
+	    //     data: {
+	    //     	st_pid: current_page_id,
+	    //     	st_pkey: current_page_key,
+	    //     }
+	    // });
 	}
 	setTimeout(function(){
 		try{
